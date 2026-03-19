@@ -1,0 +1,58 @@
+{
+    "rooms": [
+        {
+            "room_no": 301,
+            "type": "Deluxe",
+            "price": 4500,
+            "occupied": true,
+            "guest": "Rahul",
+            "nights": 2,
+            "revenue": 9000
+        },
+        {
+            "room_no": 302,
+            "type": "Deluxe",
+            "price": 4500,
+            "occupied": false,
+            "guest": null,
+            "nights": 0,
+            "revenue": 18000
+        },
+        {
+            "room_no": 303,
+            "type": "Suite",
+            "price": 7000,
+            "occupied": true,
+            "guest": "Ananya",
+            "nights": 3,
+            "revenue": 21000
+        },
+        {
+            "room_no": 304,
+            "type": "Standard",
+            "price": 3000,
+            "occupied": false,
+            "guest": null,
+            "nights": 0,
+            "revenue": 0
+        },
+        {
+            "room_no": 305,
+            "type": "Suite",
+            "price": 7000,
+            "occupied": false,
+            "guest": null,
+            "nights": 0,
+            "revenue": 0
+        },
+        {
+            "room_no": 306,
+            "type": "Standard",
+            "price": 3000,
+            "occupied": true,
+            "guest": "Vikram",
+            "nights": 1,
+            "revenue": 3000
+        }
+    ]
+}
