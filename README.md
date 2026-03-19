@@ -32,11 +32,11 @@ Instead of selecting rigid menu options, users can type **simple human-like quer
 
 Example searches:
 
-show all deluxe rooms
-show all available deluxe rooms
-show all deluxe rooms under 5000
-show standard rooms under 3000
-show all available rooms
+show all deluxe rooms\n
+show all available deluxe rooms\n
+show all deluxe rooms under 5000\n
+show standard rooms under 3000\n
+show all available rooms\n
 
 The program automatically detects:
 
